@@ -1,0 +1,9 @@
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpEntidades\bin\Debug\cpEntidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpEntidades\bin\Debug\cpEntidades.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpEntidades\obj\Debug\cpEntidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpEntidades\obj\Debug\cpEntidades.pdb
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpEntidades\bin\Debug\cpEntidades.dll
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpEntidades\bin\Debug\cpEntidades.pdb
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpEntidades\obj\Debug\cpEntidades.csprojResolveAssemblyReference.cache
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpEntidades\obj\Debug\cpEntidades.dll
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpEntidades\obj\Debug\cpEntidades.pdb

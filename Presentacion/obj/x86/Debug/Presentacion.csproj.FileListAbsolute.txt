@@ -1,0 +1,11 @@
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\obj\x86\Debug\Presentacion.csproj.GenerateResource.Cache
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\obj\x86\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\bin\Debug\Presentacion.exe
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\bin\Debug\cpEntidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\bin\Debug\cpNegocio.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\bin\Debug\cpEntidades.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\bin\Debug\cpNegocio.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\obj\x86\Debug\Presentacion.exe
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\Presentacion\obj\x86\Debug\Presentacion.pdb

@@ -1,0 +1,14 @@
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\obj\Debug\cpPersistencia.csprojResolveAssemblyReference.cache
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\bin\Debug\cpPersistencia.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\bin\Debug\cpPersistencia.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\bin\Debug\cpEntidades.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\bin\Debug\cpEntidades.pdb
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\obj\Debug\cpPersistencia.dll
+c:\users\dcamacho\documents\visual studio 2010\Projects\ProyectoCapas\cpPersistencia\obj\Debug\cpPersistencia.pdb
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\bin\Debug\cpPersistencia.dll
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\bin\Debug\cpPersistencia.pdb
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\bin\Debug\cpEntidades.dll
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\bin\Debug\cpEntidades.pdb
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\obj\Debug\cpPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\obj\Debug\cpPersistencia.dll
+C:\Users\TinTO\Downloads\taller de .net\ProyectoCapas\cpPersistencia\obj\Debug\cpPersistencia.pdb
